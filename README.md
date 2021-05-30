@@ -1,6 +1,6 @@
 # ALU-32bit
 implemented in VHDL language\
-Uses Xilinx ISE\
+Useed Xilinx ISE\
 It Can do 24 functions. It has two 8-bit inputs, A,B. 
 
 # Inputs and functions are:
