@@ -3,7 +3,7 @@ implemented in VHDL language\
 Uses Xilinx ISE\
 It Can do 24 functions. It has two 8-bit inputs, A,B. \ 
 
-# Inputs and functions are:\
+# Inputs and functions are:
 Clk : one bit std_logic\
 
 P: 32 bit std_logic_vector\
